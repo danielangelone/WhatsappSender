@@ -31,7 +31,7 @@
         <pre><code>nome;telefone;cnpj</code></pre>
     </li>
     <li>Run the script:
-        <pre><code>python your_script_name.py</code></pre>
+        <pre><code>send.py</code></pre>
     </li>
 </ol>
 
